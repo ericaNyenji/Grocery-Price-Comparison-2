@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ericaNyenji.github.io/Grocery-Price-Comparison-2",
+  "homepage": "https://ericaNyenji.github.io/Grocery",
   "eslintConfig": {
     "extends": [
       "react-app",
